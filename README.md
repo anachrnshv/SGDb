@@ -1,4 +1,4 @@
-# Videospiel-Datenbank und Analyse
+# Videospiel-Datenbank
 
 ## Projektbeschreibung
 Dieses Repository enthält eine Datenbankanwendung für Videospiele, die auf Basis der IGDB-API (Internet Game Database) entwickelt wurde. Ziel des Projekts ist es, Informationen zu Videospielen zu sammeln, zu speichern und zu analysieren, um Nutzern eine einfache Möglichkeit zu bieten, nach Spielen zu suchen und relevante Daten zu filtern.
